@@ -16,3 +16,9 @@ Este projeto visa a criação e análise de um Modelo Entidade-Relacionamento (M
 ## Instruções para o MER/DER
 
 - Após a criação do banco de dados, utilize os conceitos abordados na aula para desenvolver o **Modelo Entidade-Relacionamento (MER)** e o **Diagrama Entidade-Relacionamento (DER)**.
+
+## Exemplo de MER/DER
+
+Aqui está um exemplo visual de como o MER/DER pode ser estruturado:
+
+![Exemplo de MER/DER](https://via.placeholder.com/600x400.png "Exemplo de MER/DER")
