@@ -22,11 +22,11 @@ Este projeto visa a criação e análise de um Modelo Entidade-Relacionamento (M
 Aqui está um exemplo visual de como o MER/DER pode ser estruturado:
 
 
-![Exemplo de MER/DER](https://github.com/priscila-henriques/modelagem.dados/blob/master/Imagem1.png "Exemplo da Estrutura Lógica"
+![Exemplo de MER/DER](https://github.com/priscila-henriques/modelagem.dados/blob/master/Imagem1.png "Exemplo da Estrutura Lógica")
 
 ## Resultado Final 
 Elaboração do Modelo Entidade-Relacionamento com base na Estrutura Lógica
 
-![Exemplo de MER/DER](https://github.com/priscila-henriques/modelagem.dados/blob/master/Modelo%20Entidade%20e%20Relacionamento.jpg "Modelo de Entidade e Relacionamento"
+![Exemplo de MER/DER](https://github.com/priscila-henriques/modelagem.dados/blob/master/Modelo%20Entidade%20e%20Relacionamento.jpg "Modelo de Entidade e Relacionamento")
 
 
